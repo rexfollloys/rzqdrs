@@ -1,0 +1,22 @@
+Dans l'ordre:
+
+PC 1 : JavaRMI
+- java Serveur 1
+
+PC 2 : Serveur 2 terminaux
+- ./main_server 2
+- java Client 6
+
+PC 3 : Client
+- ./client 3
+- ./creation_pipe 5
+- ./afficheur_message 4
+
+
+
+
+
+
+
+
+broadcast > communication.c > afficheur_message pas unique > Client RMI unique >phrase complete > deco server propre >clean > rappor
